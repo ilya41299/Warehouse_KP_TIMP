@@ -1,0 +1,12 @@
+C:\Users\Илья\source\repos\Warehouse\Warehouse\bin\Release\Database.mdf
+C:\Users\Илья\source\repos\Warehouse\Warehouse\bin\Release\Database_log.ldf
+C:\Users\Илья\source\repos\Warehouse\Warehouse\bin\Release\Warehouse.exe.config
+C:\Users\Илья\source\repos\Warehouse\Warehouse\bin\Release\Warehouse.exe
+C:\Users\Илья\source\repos\Warehouse\Warehouse\bin\Release\Warehouse.pdb
+C:\Users\Илья\source\repos\Warehouse\Warehouse\obj\Release\Warehouse.Form1.resources
+C:\Users\Илья\source\repos\Warehouse\Warehouse\obj\Release\Warehouse.Properties.Resources.resources
+C:\Users\Илья\source\repos\Warehouse\Warehouse\obj\Release\Warehouse.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\Warehouse\Warehouse\obj\Release\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\Warehouse\Warehouse\obj\Release\Warehouse.exe
+C:\Users\Илья\source\repos\Warehouse\Warehouse\obj\Release\Warehouse.pdb
+C:\Users\Илья\source\repos\Warehouse\Warehouse\obj\Release\Warehouse.csprojAssemblyReference.cache
